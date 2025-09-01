@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|c:\\users\\ycg11\\source\\repos\\problemsolution\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|solutionrelative:filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|c:\\users\\ycg11\\source\\repos\\problemsolution\\numje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|solutionrelative:numje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 294,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cs",
+              "DocumentMoniker": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\FileName.cs",
+              "RelativeDocumentMoniker": "FileName.cs",
+              "ToolTip": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\FileName.cs",
+              "RelativeToolTip": "FileName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-01T05:08:27.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "numje1.cs",
+              "DocumentMoniker": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\numje1.cs",
+              "RelativeDocumentMoniker": "numje1.cs",
+              "ToolTip": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\numje1.cs",
+              "RelativeToolTip": "numje1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T10:31:47.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

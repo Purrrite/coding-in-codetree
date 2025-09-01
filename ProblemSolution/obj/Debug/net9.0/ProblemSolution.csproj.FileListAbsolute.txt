@@ -1,0 +1,14 @@
+C:\Users\ycg11\source\repos\ProblemSolution\bin\Debug\net9.0\ProblemSolution.exe
+C:\Users\ycg11\source\repos\ProblemSolution\bin\Debug\net9.0\ProblemSolution.deps.json
+C:\Users\ycg11\source\repos\ProblemSolution\bin\Debug\net9.0\ProblemSolution.runtimeconfig.json
+C:\Users\ycg11\source\repos\ProblemSolution\bin\Debug\net9.0\ProblemSolution.dll
+C:\Users\ycg11\source\repos\ProblemSolution\bin\Debug\net9.0\ProblemSolution.pdb
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.AssemblyInfoInputs.cache
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.AssemblyInfo.cs
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.csproj.CoreCompileInputs.cache
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.dll
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\refint\ProblemSolution.dll
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.pdb
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ProblemSolution.genruntimeconfig.cache
+C:\Users\ycg11\source\repos\ProblemSolution\obj\Debug\net9.0\ref\ProblemSolution.dll
