@@ -19,9 +19,9 @@ int main()
     int min_val = array[0];
     int min_count = 0;
 
-    for (int i = 1; i < N; i++)
+    for (int i = 1; i < N; i++) // -1 
     {
-        if (array[i] < array[i - 1])
+        if (min_val > array[i])
         {
             min_val = array[i];
         }
