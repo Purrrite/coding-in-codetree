@@ -7,7 +7,7 @@ int main() {
     scanf("%d", &N);
 
     int arr[N];
-    int arr_count[N];
+    int arr_count[1000];
     
     memset(arr_count, 0, sizeof(arr_count));
 
