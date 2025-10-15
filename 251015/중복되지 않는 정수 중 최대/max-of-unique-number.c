@@ -19,8 +19,11 @@ int main() {
         arr_count[arr[i] - 1]++;
     }
 
+    // for (int i = 0; i < N; i++) printf("%d ", arr_count[i]);
+    // printf("\n");
+
     for (int i = 0; i < N; i++) {
-        if (max_num < arr[i] && arr_count[i] == 1) {
+        if (max_num < arr[i] && arr_count[arr[i] - 1] == 1) {
             max_num = arr[i];
         }
     }
