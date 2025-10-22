@@ -11,11 +11,16 @@ int main()
 
     int count = 0;
     for (int i = 0; i < N; i++)
+        for (int j = 0; j < N; j++)
+        {
+            count++;
+            arr[j][i] = count;
+        }
+
+    for (int i = 0; i < N; i++)
     {
         for (int j = 0; j < N; j++)
         {
-            int input_number = (i + 1) + (j * N);
-            arr[i][j] = input_number;
             cout << arr[i][j] << ' ';
         }
         cout << endl;
