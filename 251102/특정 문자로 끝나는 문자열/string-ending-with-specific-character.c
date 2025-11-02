@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 
-char strings[10][20];
+char strings[10][21];
 char check;
 int is_exist = 0;
 
