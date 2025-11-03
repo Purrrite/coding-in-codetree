@@ -10,7 +10,8 @@ int main() {
     cin >> word >> N;
 
     int word_length = word.length();
-    for (int i = word_length - 1; i >= word_length - N; i--) {
+    int end_index = (word_length - N < 0) ? 0 : word_length - N;
+    for (int i = word_length - 1; i >= end_index; i--) {
         cout << word[i];
     }
 
