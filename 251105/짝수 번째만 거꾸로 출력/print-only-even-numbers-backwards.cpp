@@ -13,7 +13,7 @@ int main() {
     int count = 0;
 
     for (int i = 1; i < letter_len; i += 2) {
-        output_letters[count] = letters[i];
+        output_letters.push_back(letters[i]);
         count++;
     }
 
