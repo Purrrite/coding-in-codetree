@@ -12,7 +12,6 @@ int main() {
     int output_index = -1;
 
     for (int i = 0; i <= str_len - compare_str_len; i++) {
-        bool is_same = false;
         int count = 0;
 
         for (int j = 0; j < compare_str_len; j++) {
@@ -21,7 +20,6 @@ int main() {
         }
 
         if (count == compare_str_len) {
-            is_same = true;
             output_index = i;
             break;
         }
