@@ -7,8 +7,8 @@ int main() {
     string str, compare_str; // apple pp
     cin >> str >> compare_str;
 
-    int str_len = str.length();
-    int compare_str_len = compare_str.length();
+    int str_len = str.length(); //5
+    int compare_str_len = compare_str.length(); //5
     int output_index = -1;
 
     for (int i = 0; i < str_len - compare_str_len; i++) {
@@ -21,7 +21,7 @@ int main() {
         }
 
         if (count == compare_str_len) {
-            is_same == true;
+            is_same = true;
             output_index = i;
             break;
         }
