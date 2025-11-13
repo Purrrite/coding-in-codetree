@@ -12,7 +12,7 @@ int main() {
     while (str.length() > 1) {
         cin >> input_index;
 
-        int erase_index = input_index > str.length() ? str.length() - 1 : input_index;
+        int erase_index = input_index >= str.length() ? str.length() - 1 : input_index;
 
         str.erase(erase_index, 1);
         cout << str << endl;
