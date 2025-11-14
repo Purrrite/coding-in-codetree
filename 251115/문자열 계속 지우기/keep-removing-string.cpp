@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-// #include <vector>
+#include <vector>
 using namespace std;
 
 int main()
@@ -18,6 +18,7 @@ int main()
             {
                 // str = str.substr(0, i - 1) + str.substr(target_str_len + i, str.length() - (i + target_str_len));
                 str.erase(i, target_str_len);
+                break;
             }
     }
 
