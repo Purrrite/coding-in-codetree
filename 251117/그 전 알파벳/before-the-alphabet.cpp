@@ -3,10 +3,13 @@ using namespace std;
 
 int main() {
     // Please write your code here.
-    char input;
+    char input, output;
     cin >> input;
-    
-    char output = (char)((input - 1 < (int)'a') ? input + (int)'z' - (int)'a' : input - 1);
+
+    if (input - 1 < (int)'a')
+        output = input + (int)'z' - (int)'a';
+    else 
+        output = input - 1;
 
     cout << output << endl;
     return 0;
