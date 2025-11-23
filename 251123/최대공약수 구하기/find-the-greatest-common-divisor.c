@@ -2,7 +2,7 @@
 
 int compute(int n, int m) {
     int start_num = n < m ? m : n;
-    for (int i = start_num - 1; i >= 0; i--) {
+    for (int i = start_num; i >= 0; i--) {
         if (n % i == 0 && m % i == 0) {
             return i;
             break;
