@@ -13,7 +13,7 @@ int multiply(int *a, int *c) {
 }
 
 int divide(int *a, int *c) {
-    printf("%d * %d = %d",*a, *c, *a / *c);
+    printf("%d / %d = %d",*a, *c, *a / *c);
 }
 
 int main()
