@@ -1,14 +1,15 @@
 #include <stdio.h>
 
 int arr[101];
-int cnt;
+int sum = 0;
 
 void compute(int *m) {
     while (*m != 1) {
+        sum += arr[*m - 1];
+        // printf("%d\n",arr[*m - 1]);
         *m = *m % 2 == 0 ? *m / 2 : *m - 1;
-
-        cnt += arr[*m + 1];
-    }
+    } 
+    sum += arr[0];
 
     return;
 }
@@ -16,13 +17,12 @@ void compute(int *m) {
 int main() {
     int n, m;
     scanf("%d %d", &n, &m);
-    for (int i = 1; i <= n; i++)
+    for (int i = 0; i < n; i++)
         scanf("%d", &arr[i]);
-    cnt = m;
     
     compute(&m);
 
-    printf("%d", cnt);
+    printf("%d", sum);
     // Please write your code here.
     return 0;
 }
