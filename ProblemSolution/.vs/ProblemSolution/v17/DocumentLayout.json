@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\",
+  "WorkspaceRootPath": "C:\\Users\\ycg11\\git\\my-coding-munje-saves\\ProblemSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|c:\\users\\ycg11\\source\\repos\\problemsolution\\numje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|solutionrelative:numje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|c:\\users\\ycg11\\source\\repos\\problemsolution\\filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F3217E0-4E62-4F8F-92D9-BF92E9606FBC}|ProblemSolution.csproj|solutionrelative:filename.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ycg11\\git\\my-coding-munje-saves\\ProblemSolution\\numje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:numje1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +22,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FileName.cs",
-              "DocumentMoniker": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\FileName.cs",
-              "RelativeDocumentMoniker": "FileName.cs",
-              "ToolTip": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\FileName.cs",
-              "RelativeToolTip": "FileName.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-01T05:08:27.88Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "numje1.cs",
-              "DocumentMoniker": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\numje1.cs",
+              "DocumentMoniker": "C:\\Users\\ycg11\\git\\my-coding-munje-saves\\ProblemSolution\\numje1.cs",
               "RelativeDocumentMoniker": "numje1.cs",
-              "ToolTip": "C:\\Users\\ycg11\\source\\repos\\ProblemSolution\\numje1.cs",
-              "RelativeToolTip": "numje1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ycg11\\git\\my-coding-munje-saves\\ProblemSolution\\numje1.cs*",
+              "RelativeToolTip": "numje1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-26T10:31:47.61Z",
               "EditorCaption": ""
